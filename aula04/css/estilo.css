@@ -1,0 +1,16 @@
+        div {
+            background-color: indianred; border-top-style: dashed;
+        }
+        h1 {
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: ghostwhite;
+        }
+#paragrafo1 {
+    color: gold;
+}
+#p2 {
+    color: rgb(86, 226, 43)10, 153);
+}
+.alerta {
+    background-color: yellow; 
+} 
